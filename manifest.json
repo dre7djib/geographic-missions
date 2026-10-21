@@ -1,0 +1,9 @@
+{
+  "id": "com.dre7djib.geographic-missions",
+  "name": "Geographic Missions",
+  "description": "Career missions, general and geographic per city (Paris, Lyon, Marseille, New York, London), with passenger-flow career missions (api.career) and per-game saved progress.",
+  "version": "0.1.0",
+  "author": { "name": "dre7djib" },
+  "main": "index.js",
+  "dependencies": { "subway-builder": ">=1.6.0" }
+}
