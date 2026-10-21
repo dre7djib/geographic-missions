@@ -5,5 +5,5 @@
   "version": "0.1.0",
   "author": { "name": "dre7djib" },
   "main": "index.js",
-  "dependencies": { "subway-builder": ">=1.6.0" }
+  "dependencies": { "subway-builder": ">=1.7.2" }
 }
